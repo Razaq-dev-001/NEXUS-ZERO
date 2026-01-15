@@ -7,6 +7,7 @@
 * **SS. MONISH KUMAR** - Network Protocols
 * **K.A. DHARAN BALAJI** - Security & Pulse Cryptography
 * **P. NIVETHA** - Spatial UX & Design
+* P.K. YUVA PRIYAN: Embedded Systems & Hardware Gateway Integration
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, C++
