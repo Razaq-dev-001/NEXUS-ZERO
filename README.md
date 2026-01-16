@@ -1,7 +1,7 @@
 # 📡 NEXUS-ZERO: The Living Infrastructure
 **World's first AI-orchestrated disaster mesh network.**
 
-## 👥 The Team (SRM T-REX 2026)
+## 👥 The Team (SRM THREX 2026)
 * **L. MOHAMMED RAZAQ [Lead]** - System Architect
 * **S. NITHYA** - AI/ML Specialist 
 * **SS. MONISH KUMAR** - Network Protocols
